@@ -1,6 +1,6 @@
 # Movements
 
-## Basic movements
+## Basic actions
 
 | key | Description|
 |:----|:-----------|
@@ -13,4 +13,6 @@
 |dd| Delete the current line|
 |o | Insert a line below the current line|
 |O | Insert a line above the current line|
- 
+|J | Join the current ine with the next line|
+|u | Undo the last action|
+|. | Redo the last action|
